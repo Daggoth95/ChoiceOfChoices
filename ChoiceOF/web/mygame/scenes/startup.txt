@@ -1,10 +1,8 @@
-Hello and Welcome To Choice of the Chosen.  
-First off, are you male or female?
+﻿*title Something Something Space Story
+*author Robotron Floflan
 
-*Choice
- #Male
-  Ah a manly man then.
-  *finish
- #Woman
-  Ah the feminine type.
-  *finish
+*create Strength 20
+*create Intelligence 20
+*create Charisma 20
+*create Heart 50
+*create Control 50
