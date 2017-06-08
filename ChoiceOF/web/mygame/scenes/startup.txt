@@ -1,5 +1,5 @@
 ﻿*title Something Something Space Story
-*author Robotron Floflan
+*author Robotron Floflan and The Weasel
 
 *create Strength 20
 *create Intelligence 20
